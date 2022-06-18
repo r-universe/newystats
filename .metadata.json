@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gld",
+    "oncran": true
+  },
+  {
+    "package": "sld",
+    "oncran": true
+  }
+]
