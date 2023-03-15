@@ -1,10 +1,10 @@
 [
   {
-    "package": "sld",
+    "package": "gld",
     "oncran": true
   },
   {
-    "package": "gld",
+    "package": "sld",
     "oncran": true
   }
 ]
