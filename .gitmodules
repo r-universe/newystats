@@ -8,6 +8,11 @@
 	url = https://github.com/newystats/gld
 	shallow = true
 	registered = true
+[submodule "skewt"]
+	path = skewt
+	url = https://github.com/newystats/skewt
+	shallow = true
+	registered = true
 [submodule "sld"]
 	path = sld
 	url = https://github.com/newystats/sld

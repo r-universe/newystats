@@ -4,6 +4,22 @@
     "oncran": true
   },
   {
+    "package": "gld",
+    "oncran": true
+  },
+  {
+    "package": "skewt",
+    "oncran": true
+  },
+  {
+    "package": "skewt",
+    "oncran": true
+  },
+  {
+    "package": "sld",
+    "oncran": true
+  },
+  {
     "package": "sld",
     "oncran": true
   }
